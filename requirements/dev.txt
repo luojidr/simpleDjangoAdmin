@@ -1,0 +1,27 @@
+-r ./base.txt
+
+Faker==20.1.0                       # https://github.com/joke2k/faker/
+
+
+# Django Profile
+# ------------------------------------------------------------------------------
+django-silk==4.1.0                  # https://github.com/jazzband/django-silk
+django-debug-toolbar==3.1.1         # https://github.com/jazzband/django-debug-toolbar
+
+
+# Django-Swagger
+# ------------------------------------------------------------------------------
+django-rest-swagger==2.2.0          # https://github.com/marcgibbons/django-rest-swagger
+
+
+# Health and Check
+django-health-check==3.16.3         # https://github.com/KristianOellegaard/django-health-check
+# django-prometheus==2.2.0dev8      # https://github.com/korfuri/django-prometheus
+
+
+# Code quality
+# ------------------------------------------------------------------------------
+flake8-isort==6.1.1                 # https://github.com/gforcada/flake8-isort
+pylint-django==2.5.5                # https://github.com/PyCQA/pylint-django
+pylint-celery==0.3                  # https://github.com/PyCQA/pylint-celery
+pre-commit==2.5.0                   # https://github.com/pre-commit/pre-commit
