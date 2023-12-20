@@ -57,7 +57,7 @@ SimpleDjangoAdmin
 3. 其他
 
 三、操作视频  
-[![Watch the video](https://i.postimg.cc/R0P76Rgd/2-C35-FF1-D-5-A1-B-4afa-8336-77105609-D80-B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.postimg.cc/R0P76Rgd/2-C35-FF1-D-5-A1-B-4afa-8336-77105609-D80-B.png)](https://www.ixigua.com/7314577717603926538)
 
 
  
